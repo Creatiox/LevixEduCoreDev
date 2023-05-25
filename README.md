@@ -1,11 +1,11 @@
+![LevixEduCoreDev](.img/logo.png)
+
 <h1 align="center">
-  <a><img src=".img/logo.png" alt="Logo" width="400"></a>
-  <br>
-  Título
+  LevixEduCoreDev
 </h1>
 
 <p align="center">
-  <b>Subtítulo</b>
+  <b>Librería para placa Levix Edu Core Dev-board</b>
 </p>
 
 ---
