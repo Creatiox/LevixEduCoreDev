@@ -15,7 +15,7 @@
     "url": "https://github.com/Creatiox/LevixEduCoreDev.git"
   },
   "dependencies": {
-    "LevixEduCore": "https://github.com/Creatiox/LevixEduCore#feat!-inicial",
+    "LevixEduCore": "https://github.com/Creatiox/LevixEduCore#v0.1.0",
     "AdafruitNeoPixel": "https://github.com/adafruit/Adafruit_NeoPixel.git#1.11.1"
   },
   "keywords": "levix, edu, core, esp32, espressif, education, educacion, wifi, internet, iot",
